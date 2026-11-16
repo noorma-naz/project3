@@ -1,4 +1,4 @@
 # project3
 This is my third git project
 <br>
-Author -Noorma
+Author -Noorma Naz (Teacher)
